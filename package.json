@@ -247,7 +247,7 @@
     "@grafana/runtime": "workspace:*",
     "@grafana/scenes": "^2.0.0",
     "@grafana/schema": "workspace:*",
-    "@grafana/ui": "workspace:*",
+    "@grafana/ui": "6.3.2",
     "@kusto/monaco-kusto": "^7.4.0",
     "@leeoniya/ufuzzy": "1.0.14",
     "@lezer/common": "1.2.1",
